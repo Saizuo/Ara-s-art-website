@@ -135,7 +135,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #fff;
+		background-color: #000;
 		color: #aaa;
 	}
 
@@ -159,7 +159,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #00D3B7;
+			color: #Fd2222;
 		}
 
 	strong, b {
@@ -304,8 +304,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #00D3B7;
-			color: #00D3B7;
+			border-color: #Fd2222;
+			color: #Fd2222;
 		}
 
 			input[type="submit"]:hover:active,
@@ -416,7 +416,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #00D3B7;
+			border-color: #Fd2222;
 		}
 
 	select {
@@ -559,7 +559,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #00D3B7;
+			border-color: #Fd2222;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -837,7 +837,7 @@ input, select, textarea {
 		top: 0;
 		width: 22.5em;
 		height: 100%;
-		background: #fff;
+		background: #000;
 		outline: 0;
 		overflow-x: hidden;
 		overflow-y: auto;
@@ -1005,7 +1005,7 @@ input, select, textarea {
 					top: 0;
 					width: 100%;
 					height: 100%;
-					box-shadow: inset 0 0 0 2px #00D3B7, inset 0 0 0px 3px rgba(0, 0, 0, 0.15);
+					box-shadow: inset 0 0 0 2px #Fd2222, inset 0 0 0px 3px rgba(0, 0, 0, 0.15);
 					opacity: 0;
 					z-index: 1;
 				}
